@@ -3503,6 +3503,13 @@ input[type="button"].btn--primary:focus {
     color: white;
     margin-top: 0;
     margin-bottom: 0;
+    animation: typewriter 4s steps(14) forwards;
+}
+
+@keyframes typewriter {
+    to {
+        left: 100%;
+    }
 }
 
 .s-hero__content h3 {
