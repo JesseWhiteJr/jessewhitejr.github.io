@@ -1,7 +1,5 @@
 /* =================================================================== 
- * Ceevee Main Stylesheet
- * Template Ver. 2.0.0
- * 01-03-2021
+ * 
  * ------------------------------------------------------------------
  *
  * TOC:
@@ -4717,8 +4715,11 @@ input[type="button"].btn--primary:focus {
         margin-right: 1.4rem;
     }
 }
+<<<<<<< HEAD
 
 .avatar.proportioned {
     height: auto;
     width: 300px;
 }
+=======
+>>>>>>> 9136b5a6daa2067d97561317436e3e66c6e93de3
