@@ -3799,6 +3799,11 @@ input[type="button"].btn--primary:focus {
     border-radius: 50%;
 }
 
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
 .s-about__content-bottom {
     margin-top: var(--vspace-2);
 }
@@ -4715,11 +4720,5 @@ input[type="button"].btn--primary:focus {
         margin-right: 1.4rem;
     }
 }
-<<<<<<< HEAD
 
-.avatar.proportioned {
-    height: auto;
-    width: 300px;
-}
-=======
->>>>>>> 9136b5a6daa2067d97561317436e3e66c6e93de3
+
